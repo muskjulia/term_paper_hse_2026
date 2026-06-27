@@ -12,11 +12,11 @@ The analysis was conducted in Python using Jupyter Notebook.
 # Main analysis files
 |Filename|Desciption|
 | :--- | :---: |
-|Term Paper Mask.ipynb|	Main Jupyter Notebook with the full empirical analysis, including data loading, cleaning, descriptive statistics, hypothesis testing, visualisations, and robustness checks.|
-|Term Paper Mask.html	|Rendered HTML version of the notebook. This file allows the analysis to be viewed without running the notebook.|
+|`Term Paper Mask.ipynb`|	Main Jupyter Notebook with the full empirical analysis, including data loading, cleaning, descriptive statistics, hypothesis testing, visualisations, and robustness checks.|
+|`Term Paper Mask.html`|Rendered HTML version of the notebook. This file allows the analysis to be viewed without running the notebook.|
 
 # Input datasets
 | Filename | Description |
-|---|---|
+| :--- | :---: |
 | `post-level dataset.csv` | Raw post-level dataset exported from the PostgreSQL database. It contains Reddit post metadata and manually coded variables such as author role, AI stance, AI type, disclosure type, and relevance flag. |
 | `comment-level dataset.csv` | Raw comment-level dataset exported from the PostgreSQL database. It contains Reddit comments linked to collected posts, including comment-level AI stance and post-level coding variables. |
