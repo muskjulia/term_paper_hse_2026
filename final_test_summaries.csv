@@ -1,0 +1,8 @@
+analysis,chi2,p_value,dof,min_expected_count,cramers_v
+Author role and post-level AI stance (H1),55.3513,0.0,4,7.5256,0.2173
+Post ai type and post-level AI stance (H2 detailed),83.8592,0.0,8,8.6909,0.2661
+Post ai type and comment-level ai stance (H2 detailed),42.2351,1e-06,8,17.5284,0.0563
+"Visible ai vs internal tools, post-level stance (H2 detailed)",8.5561,0.01387,2,12.6796,0.1356
+"Visible ai vs internal tools, comment-level stance (H2 detailed)",19.6847,5.3e-05,2,34.968,0.0618
+Disclosure type and post-level ai stance (H3),69.128,0.0,2,4.1481,0.7156
+Post disclosure type and comment-level ai stance (H3),8.8337,0.012072,2,15.5007,0.079
